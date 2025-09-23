@@ -11,7 +11,7 @@
 <h1 align = "center"> Hello there! I'm 
     <a href = "https://www.linkedin.com/in/mauledji" style="color: #8A2BE2; !important">Mauricio Ledezma </a>
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;College+Student;AI+%26+Machine+Learning" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning" alt="Typing SVG" /></a>
 </h1>
 
 ## About Me
