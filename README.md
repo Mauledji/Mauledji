@@ -16,7 +16,7 @@
 
 ## About Me
 
-I’m currently pursuing a **Software Engineering** degree at _Universidad Latina de Costa Rica_, with an expected graduation in **2026**. I have a solid foundation in **Java** and **Python**, and hands-on experience developing **full-stack web applications** with **Spring Boot** and **React**. Recently, I’ve been diving into **Machine Learning**, and **Generative AI**, exploring areas such as **LLMs**, **RAG pipelines** and **Data Engineering**. I’m passionate about solving real-world problems through code and thrive in collaborative environments that foster **curiosity**, **innovation**, and **continuous learning**.
+**Software Engineering** in Costa Rica. I have a solid foundation in **Java** and **Python**, and hands-on experience developing **full-stack web applications** with **Spring Boot** and **React**. Recently, I’ve been diving into **Machine Learning**, and **Generative AI**, exploring areas such as **LLMs**, **RAG pipelines** and **Data Engineering**. I’m passionate about solving real-world problems through code and thrive in collaborative environments that foster **curiosity**, **innovation**, and **continuous learning**.
 
 ## Skills
 
