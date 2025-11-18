@@ -62,4 +62,4 @@
 
 ### Stats
 
-![MauricioLJ's Stats](https://github-readme-stats.vercel.app/api?username=MauricioLJ&theme=discord_old_blurple&show_icons=true&hide_border=true&count_private=true)
+![MauricioLJ's Stats](https://github-readme-stats.vercel.app/api?username=Mauledji&theme=discord_old_blurple&show_icons=true&hide_border=true&count_private=true)
