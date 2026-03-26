@@ -22,7 +22,7 @@ Full-stack Software Engineer based in **San José, Costa Rica**, shipping comple
 - ☁️ **AWS Academy Cloud Foundations** certified · Studying Databricks & Apache Spark
 - 🌐 Portfolio at **[mauledji.com](https://mauledji.com)**
 - 🎓 B.Eng. Software Engineering @ Universidad Latina de Costa Rica (2023–2026)
-- 📍 Open to Junior Software Engineer & Cloud/DevOps roles
+- 📍 Open to Software Engineer, Cloud/DevOps & Data roles
 
 ---
 
@@ -180,5 +180,5 @@ graph LR
 ---
 
 <div align="center">
-  <sub>📍 San José, Costa Rica &nbsp;·&nbsp; Open to Junior Software Engineer & Cloud roles</sub>
+  <sub>📍 San José, Costa Rica &nbsp;·&nbsp; Open to Software Engineer, Cloud & Data roles</sub>
 </div>
