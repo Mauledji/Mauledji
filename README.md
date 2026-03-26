@@ -16,9 +16,9 @@
 
 ## 👋 About Me
 
-Full-stack Software Engineer based in **San José, Costa Rica**, shipping complete web products from stakeholder meetings to live production. I build with **Java**, **Spring Boot**, **React**, and **TypeScript** — and I'm expanding into **cloud engineering** (AWS certified) and **data engineering** (Databricks · Apache Spark).
+Full-stack Software Engineer based in **San José, Costa Rica**, shipping complete web products from stakeholder meetings to live production. I build with **Java**, **Spring Boot**, **React**, and **TypeScript**. Curretly expanding into **cloud engineering** (AWS certified) and **data engineering** (Databricks).
 
-- 🔨 Currently building **Mundo Fit** — full e-commerce platform (React + TypeScript + Contentful CMS + Netlify)
+- 🔨 Currently building **Mundo Fit** platform for Gym products and machine catalog (React + TypeScript + Contentful CMS + Netlify)
 - ☁️ **AWS Academy Cloud Foundations** certified · Studying Databricks & Apache Spark
 - 🌐 Portfolio at **[mauledji.com](https://mauledji.com)**
 - 🎓 B.Eng. Software Engineering @ Universidad Latina de Costa Rica (2023–2026)
@@ -113,8 +113,8 @@ Full-stack Software Engineer based in **San José, Costa Rica**, shipping comple
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" alt="Pandas" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" alt="NumPy" />&nbsp;&nbsp;
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45" alt="ApacheSpark" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="45" alt="Databricks" />&nbsp;&nbsp;
 
 <br/><br/>
 
