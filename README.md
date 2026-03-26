@@ -173,11 +173,10 @@ graph LR
 
 ## 🏅 Certifications
 
-<div align="center">
-  [![AWS Academy](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/f5219dab-a64b-4e01-8348-9f0bd7603ab3)
-  &nbsp;
-  [![LPI](https://img.shields.io/badge/Linux_Professional_Institute-LPI_Certification-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://lpi.org/v/LPI000657842/rdvslxquwd)
-</div>
+[![AWS Academy](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/f5219dab-a64b-4e01-8348-9f0bd7603ab3)
+&nbsp;
+[![LPI](https://img.shields.io/badge/Linux_Professional_Institute-LPI_Certification-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://lpi.org/v/LPI000657842/rdvslxquwd)
+
 ---
 
 <div align="center">
