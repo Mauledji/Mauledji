@@ -19,7 +19,6 @@
 
 Full-stack Software Engineer based in **San José, Costa Rica**, shipping complete web products from stakeholder meetings to live production. I build with **Java**, **Spring Boot**, **React**, and **TypeScript**. Curretly expanding into **cloud engineering** (AWS certified) and **data engineering** (Databricks).
 
-- 🔨 Currently building **Mundo Fit** platform for Gym products and machine catalog (React + TypeScript + Contentful CMS + Netlify)
 - ☁️ **AWS Academy Cloud Foundations** certified · Studying Databricks & Apache Spark
 - 🌐 Portfolio at **[mauledji.com](https://mauledji.com)**
 - 🎓 B.Eng. Software Engineering @ Universidad Latina de Costa Rica (2023–2026)
