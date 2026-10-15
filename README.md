@@ -15,23 +15,23 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Full-stack Software Engineer based in **San José, Costa Rica**, shipping complete web products from stakeholder meetings to live production. I build with **Java**, **Spring Boot**, **React**, and **TypeScript**. Curretly expanding into **cloud engineering** (AWS certified) and **data engineering** (Databricks).
 
-- ☁️ **AWS Academy Cloud Foundations** certified · Studying Databricks & Apache Spark
-- 🌐 Portfolio at **[mauledji.com](https://mauledji.com)**
-- 🎓 B.Eng. Software Engineering @ Universidad Latina de Costa Rica (2023–2026)
-- 📍 Open to Software Engineer, Cloud/DevOps & Data roles
+- **AWS Academy Cloud Foundations** certified · Studying Databricks & Apache Spark
+- Portfolio at **[mauledji.com](https://mauledji.com)**
+- B.Eng. Software Engineering @ Universidad Latina de Costa Rica (2023–2026)
+- Open to Software Engineer, Cloud/DevOps & Data roles
 
 ---
 
-## 🔨 What I Build
+## What I Build
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🌐 Web Applications</h3>
+      <h3>Web Applications</h3>
       <ul>
         <li>React, Next.js & Astro frontends</li>
         <li>Spring Boot & Node.js backends</li>
@@ -40,7 +40,7 @@ Full-stack Software Engineer based in **San José, Costa Rica**, shipping comple
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>☁️ Cloud & Infrastructure</h3>
+      <h3>Cloud & Infrastructure</h3>
       <ul>
         <li>AWS (EC2, S3, Lambda, VPC, IAM, RDS)</li>
         <li>Cloudflare deployment & CDN</li>
@@ -51,7 +51,7 @@ Full-stack Software Engineer based in **San José, Costa Rica**, shipping comple
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>⚙️ Backend & APIs</h3>
+      <h3>Backend & APIs</h3>
       <ul>
         <li>Java + Spring Boot production systems</li>
         <li>JWT authentication & Spring Security</li>
@@ -60,7 +60,7 @@ Full-stack Software Engineer based in **San José, Costa Rica**, shipping comple
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>📊 Data Engineering</h3>
+      <h3>Data Engineering</h3>
       <ul>
         <li>Apache Spark & PySpark</li>
         <li>Databricks platform</li>
@@ -73,7 +73,7 @@ Full-stack Software Engineer based in **San José, Costa Rica**, shipping comple
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -126,7 +126,7 @@ Full-stack Software Engineer based in **San José, Costa Rica**, shipping comple
 
 ---
 
-## 🔭 Currently Exploring
+## Currently Exploring
 
 ```mermaid
 graph LR
@@ -147,7 +147,7 @@ graph LR
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -171,7 +171,7 @@ graph LR
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 [![AWS Academy](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/f5219dab-a64b-4e01-8348-9f0bd7603ab3)
 &nbsp;
